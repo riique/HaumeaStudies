@@ -50,8 +50,8 @@ As funções de IA usam modelos acessados pelo OpenRouter. Respostas automática
 ## Instalação
 
 ```bash
-git clone https://github.com/riique/Haumea-Studies.git
-cd Haumea-Studies
+git clone https://github.com/riique/HaumeaStudies.git
+cd HaumeaStudies
 npm install
 cd functions
 npm install
